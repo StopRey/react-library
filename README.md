@@ -236,61 +236,79 @@ All components use a neon theme with black background and bright neon colors (cy
 ### Input Component
 
 **Default input component:**
+
 ![Input Default](./screenshots/Input/Default.png)
 
 **Input with clear button functionality:**
+
 ![Input With Clear Button](./screenshots/Input/WithClearButton.png)
 
 **Password input with visibility toggle:**
+
 ![Input Password](./screenshots/Input/Password.png)
 
 **Password input with both toggle and clear button:**
+
 ![Input Password With Clear](./screenshots/Input/PasswordWithClear.png)
 
 **Number input type:**
+
 ![Input Number](./screenshots/Input/Number.png)
 
 **Email input type:**
+
 ![Input Email](./screenshots/Input/Email.png)
 
 **Disabled input state:**
+
 ![Input Disabled](./screenshots/Input/Disabled.png)
 
 **Controlled input with state management:**
+
 ![Input Controlled](./screenshots/Input/Controlled.png)
 
 ### Toast Component
 
 **Success toast notification:**
+
 ![Toast Success](./screenshots/Toast/Success.png)
 
 **Error toast notification:**
+
 ![Toast Error](./screenshots/Toast/Error.png)
 
 **Warning toast notification:**
+
 ![Toast Warning](./screenshots/Toast/Warning.png)
 
 **Info toast notification:**
+
 ![Toast Info](./screenshots/Toast/Info.png)
 
 **Multiple toast notifications stacked:**
+
 ![Toast Multiple](./screenshots/Toast/MultipleToasts.png)
 
 **Toast without manual close button:**
+
 ![Toast Without Close Button](./screenshots/Toast/WithoutCloseButton.png)
 
 **Toast with long message text:**
+
 ![Toast Long Message](./screenshots/Toast/LongMessage.png)
 
 ### Sidebar Menu Component
 
 **Simple sidebar menu with single-level items:**
+
 ![Sidebar Default](./screenshots/SidebarMenu/Default.png)
 
 **Sidebar menu with one level of nesting:**
+
 ![Sidebar Nested](./screenshots/SidebarMenu/Nested.png)
 
 **Sidebar menu with two levels of nesting:**
+
 ![Sidebar Two Level Nested](./screenshots/SidebarMenu/TwoLevelNested.png)
 
 ## Getting Started
