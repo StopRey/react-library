@@ -235,99 +235,63 @@ All components use a neon theme with black background and bright neon colors (cy
 
 ### Input Component
 
-<figure style="margin: 0 0 2em 0;">
-  <img src="./screenshots/Input/Default.png" alt="Input Default" style="margin: 0; display: block;" />
-  <figcaption style="margin: 0.5em 0 0 0; text-align: center;">Default input component</figcaption>
-</figure>
+**Default input component:**
+![Input Default](./screenshots/Input/Default.png)
 
-<figure style="margin: 0 0 2em 0;">
-  <img src="./screenshots/Input/WithClearButton.png" alt="Input With Clear Button" style="margin: 0; display: block;" />
-  <figcaption style="margin: 0.5em 0 0 0; text-align: center;">Input with clear button functionality</figcaption>
-</figure>
+**Input with clear button functionality:**
+![Input With Clear Button](./screenshots/Input/WithClearButton.png)
 
-<figure style="margin: 0 0 2em 0;">
-  <img src="./screenshots/Input/Password.png" alt="Input Password" style="margin: 0; display: block;" />
-  <figcaption style="margin: 0.5em 0 0 0; text-align: center;">Password input with visibility toggle</figcaption>
-</figure>
+**Password input with visibility toggle:**
+![Input Password](./screenshots/Input/Password.png)
 
-<figure style="margin: 0 0 2em 0;">
-  <img src="./screenshots/Input/PasswordWithClear.png" alt="Input Password With Clear" style="margin: 0; display: block;" />
-  <figcaption style="margin: 0.5em 0 0 0; text-align: center;">Password input with both toggle and clear button</figcaption>
-</figure>
+**Password input with both toggle and clear button:**
+![Input Password With Clear](./screenshots/Input/PasswordWithClear.png)
 
-<figure style="margin: 0 0 2em 0;">
-  <img src="./screenshots/Input/Number.png" alt="Input Number" style="margin: 0; display: block;" />
-  <figcaption style="margin: 0.5em 0 0 0; text-align: center;">Number input type</figcaption>
-</figure>
+**Number input type:**
+![Input Number](./screenshots/Input/Number.png)
 
-<figure style="margin: 0 0 2em 0;">
-  <img src="./screenshots/Input/Email.png" alt="Input Email" style="margin: 0; display: block;" />
-  <figcaption style="margin: 0.5em 0 0 0; text-align: center;">Email input type</figcaption>
-</figure>
+**Email input type:**
+![Input Email](./screenshots/Input/Email.png)
 
-<figure style="margin: 0 0 2em 0;">
-  <img src="./screenshots/Input/Disabled.png" alt="Input Disabled" style="margin: 0; display: block;" />
-  <figcaption style="margin: 0.5em 0 0 0; text-align: center;">Disabled input state</figcaption>
-</figure>
+**Disabled input state:**
+![Input Disabled](./screenshots/Input/Disabled.png)
 
-<figure style="margin: 0 0 2em 0;">
-  <img src="./screenshots/Input/Controlled.png" alt="Input Controlled" style="margin: 0; display: block;" />
-  <figcaption style="margin: 0.5em 0 0 0; text-align: center;">Controlled input with state management</figcaption>
-</figure>
+**Controlled input with state management:**
+![Input Controlled](./screenshots/Input/Controlled.png)
 
 ### Toast Component
 
-<figure style="margin: 0 0 2em 0;">
-  <img src="./screenshots/Toast/Success.png" alt="Toast Success" style="margin: 0; display: block;" />
-  <figcaption style="margin: 0.5em 0 0 0; text-align: center;">Success toast notification</figcaption>
-</figure>
+**Success toast notification:**
+![Toast Success](./screenshots/Toast/Success.png)
 
-<figure style="margin: 0 0 2em 0;">
-  <img src="./screenshots/Toast/Error.png" alt="Toast Error" style="margin: 0; display: block;" />
-  <figcaption style="margin: 0.5em 0 0 0; text-align: center;">Error toast notification</figcaption>
-</figure>
+**Error toast notification:**
+![Toast Error](./screenshots/Toast/Error.png)
 
-<figure style="margin: 0 0 2em 0;">
-  <img src="./screenshots/Toast/Warning.png" alt="Toast Warning" style="margin: 0; display: block;" />
-  <figcaption style="margin: 0.5em 0 0 0; text-align: center;">Warning toast notification</figcaption>
-</figure>
+**Warning toast notification:**
+![Toast Warning](./screenshots/Toast/Warning.png)
 
-<figure style="margin: 0 0 2em 0;">
-  <img src="./screenshots/Toast/Info.png" alt="Toast Info" style="margin: 0; display: block;" />
-  <figcaption style="margin: 0.5em 0 0 0; text-align: center;">Info toast notification</figcaption>
-</figure>
+**Info toast notification:**
+![Toast Info](./screenshots/Toast/Info.png)
 
-<figure style="margin: 0 0 2em 0;">
-  <img src="./screenshots/Toast/MultipleToasts.png" alt="Toast Multiple" style="margin: 0; display: block;" />
-  <figcaption style="margin: 0.5em 0 0 0; text-align: center;">Multiple toast notifications stacked</figcaption>
-</figure>
+**Multiple toast notifications stacked:**
+![Toast Multiple](./screenshots/Toast/MultipleToasts.png)
 
-<figure style="margin: 0 0 2em 0;">
-  <img src="./screenshots/Toast/WithoutCloseButton.png" alt="Toast Without Close Button" style="margin: 0; display: block;" />
-  <figcaption style="margin: 0.5em 0 0 0; text-align: center;">Toast without manual close button</figcaption>
-</figure>
+**Toast without manual close button:**
+![Toast Without Close Button](./screenshots/Toast/WithoutCloseButton.png)
 
-<figure style="margin: 0 0 2em 0;">
-  <img src="./screenshots/Toast/LongMessage.png" alt="Toast Long Message" style="margin: 0; display: block;" />
-  <figcaption style="margin: 0.5em 0 0 0; text-align: center;">Toast with long message text</figcaption>
-</figure>
+**Toast with long message text:**
+![Toast Long Message](./screenshots/Toast/LongMessage.png)
 
 ### Sidebar Menu Component
 
-<figure style="margin: 0 0 2em 0;">
-  <img src="./screenshots/SidebarMenu/Default.png" alt="Sidebar Default" style="margin: 0; display: block;" />
-  <figcaption style="margin: 0.5em 0 0 0; text-align: center;">Simple sidebar menu with single-level items</figcaption>
-</figure>
+**Simple sidebar menu with single-level items:**
+![Sidebar Default](./screenshots/SidebarMenu/Default.png)
 
-<figure style="margin: 0 0 2em 0;">
-  <img src="./screenshots/SidebarMenu/Nested.png" alt="Sidebar Nested" style="margin: 0; display: block;" />
-  <figcaption style="margin: 0.5em 0 0 0; text-align: center;">Sidebar menu with one level of nesting</figcaption>
-</figure>
+**Sidebar menu with one level of nesting:**
+![Sidebar Nested](./screenshots/SidebarMenu/Nested.png)
 
-<figure style="margin: 0 0 2em 0;">
-  <img src="./screenshots/SidebarMenu/TwoLevelNested.png" alt="Sidebar Two Level Nested" style="margin: 0; display: block;" />
-  <figcaption style="margin: 0.5em 0 0 0; text-align: center;">Sidebar menu with two levels of nesting</figcaption>
-</figure>
+**Sidebar menu with two levels of nesting:**
+![Sidebar Two Level Nested](./screenshots/SidebarMenu/TwoLevelNested.png)
 
 ## Getting Started
 
