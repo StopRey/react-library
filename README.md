@@ -235,63 +235,99 @@ All components use a neon theme with black background and bright neon colors (cy
 
 ### Input Component
 
-![Input Default](./screenshots/Input/Default.png)
-*Default input component*
+<figure>
+  <img src="./screenshots/Input/Default.png" alt="Input Default" />
+  <figcaption>Default input component</figcaption>
+</figure>
 
-![Input With Clear Button](./screenshots/Input/WithClearButton.png)
-*Input with clear button functionality*
+<figure>
+  <img src="./screenshots/Input/WithClearButton.png" alt="Input With Clear Button" />
+  <figcaption>Input with clear button functionality</figcaption>
+</figure>
 
-![Input Password](./screenshots/Input/Password.png)
-*Password input with visibility toggle*
+<figure>
+  <img src="./screenshots/Input/Password.png" alt="Input Password" />
+  <figcaption>Password input with visibility toggle</figcaption>
+</figure>
 
-![Input Password With Clear](./screenshots/Input/PasswordWithClear.png)
-*Password input with both toggle and clear button*
+<figure>
+  <img src="./screenshots/Input/PasswordWithClear.png" alt="Input Password With Clear" />
+  <figcaption>Password input with both toggle and clear button</figcaption>
+</figure>
 
-![Input Number](./screenshots/Input/Number.png)
-*Number input type*
+<figure>
+  <img src="./screenshots/Input/Number.png" alt="Input Number" />
+  <figcaption>Number input type</figcaption>
+</figure>
 
-![Input Email](./screenshots/Input/Email.png)
-*Email input type*
+<figure>
+  <img src="./screenshots/Input/Email.png" alt="Input Email" />
+  <figcaption>Email input type</figcaption>
+</figure>
 
-![Input Disabled](./screenshots/Input/Disabled.png)
-*Disabled input state*
+<figure>
+  <img src="./screenshots/Input/Disabled.png" alt="Input Disabled" />
+  <figcaption>Disabled input state</figcaption>
+</figure>
 
-![Input Controlled](./screenshots/Input/Controlled.png)
-*Controlled input with state management*
+<figure>
+  <img src="./screenshots/Input/Controlled.png" alt="Input Controlled" />
+  <figcaption>Controlled input with state management</figcaption>
+</figure>
 
 ### Toast Component
 
-![Toast Success](./screenshots/Toast/Success.png)
-*Success toast notification*
+<figure>
+  <img src="./screenshots/Toast/Success.png" alt="Toast Success" />
+  <figcaption>Success toast notification</figcaption>
+</figure>
 
-![Toast Error](./screenshots/Toast/Error.png)
-*Error toast notification*
+<figure>
+  <img src="./screenshots/Toast/Error.png" alt="Toast Error" />
+  <figcaption>Error toast notification</figcaption>
+</figure>
 
-![Toast Warning](./screenshots/Toast/Warning.png)
-*Warning toast notification*
+<figure>
+  <img src="./screenshots/Toast/Warning.png" alt="Toast Warning" />
+  <figcaption>Warning toast notification</figcaption>
+</figure>
 
-![Toast Info](./screenshots/Toast/Info.png)
-*Info toast notification*
+<figure>
+  <img src="./screenshots/Toast/Info.png" alt="Toast Info" />
+  <figcaption>Info toast notification</figcaption>
+</figure>
 
-![Toast Multiple](./screenshots/Toast/MultipleToasts.png)
-*Multiple toast notifications stacked*
+<figure>
+  <img src="./screenshots/Toast/MultipleToasts.png" alt="Toast Multiple" />
+  <figcaption>Multiple toast notifications stacked</figcaption>
+</figure>
 
-![Toast Without Close Button](./screenshots/Toast/WithoutCloseButton.png)
-*Toast without manual close button*
+<figure>
+  <img src="./screenshots/Toast/WithoutCloseButton.png" alt="Toast Without Close Button" />
+  <figcaption>Toast without manual close button</figcaption>
+</figure>
 
-![Toast Long Message](./screenshots/Toast/LongMessage.png)
-*Toast with long message text*
+<figure>
+  <img src="./screenshots/Toast/LongMessage.png" alt="Toast Long Message" />
+  <figcaption>Toast with long message text</figcaption>
+</figure>
 
 ### Sidebar Menu Component
 
-![Sidebar Default](./screenshots/SidebarMenu/Default.png)
-*Simple sidebar menu with single-level items*
+<figure>
+  <img src="./screenshots/SidebarMenu/Default.png" alt="Sidebar Default" />
+  <figcaption>Simple sidebar menu with single-level items</figcaption>
+</figure>
 
-![Sidebar Nested](./screenshots/SidebarMenu/Nested.png)
-*Sidebar menu with one level of nesting*
+<figure>
+  <img src="./screenshots/SidebarMenu/Nested.png" alt="Sidebar Nested" />
+  <figcaption>Sidebar menu with one level of nesting</figcaption>
+</figure>
 
-![Sidebar Two Level Nested](./screenshots/SidebarMenu/TwoLevelNested.png)
-*Sidebar menu with two levels of nesting*
+<figure>
+  <img src="./screenshots/SidebarMenu/TwoLevelNested.png" alt="Sidebar Two Level Nested" />
+  <figcaption>Sidebar menu with two levels of nesting</figcaption>
+</figure>
 
 ## Getting Started
 
